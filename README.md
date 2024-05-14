@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Official-Soumik06
 - 👀 I’m interested in Software Development And Programming
-- 🌱 I’m currently studying at the University of Calgary In Software Engineering In My Second Year, Currently Learning Python, C, C++, SQL, Java, HTML, CSS, and Javascript.
+- 🌱 I’m currently studying at the University of Calgary In Software Engineering In My Third Year, Currently Learning Python, C, C++, SQL, Java, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on Group Projects
 - 📫 How to reach me: (Look below)
 - My Personal Instagram Account: @official_soumik06
