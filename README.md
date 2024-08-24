@@ -4,7 +4,7 @@
   
 🌱 I’m currently studying at the University of Calgary For Bachelor of Science In Software Engineering, Currently In Third Year
   
-🌱 Some Of The Programming Languages That I Am Familiar With: (Look Below):
+Some Of The Programming Languages That I Am Familiar With: (Look Below):
 
 - Python
 - C/C++
@@ -13,7 +13,7 @@
 - HTML/CSS
 - SQL
 
-🌱 Some Of The Frameworks/Libraries And Technologies That I Am Familiar With: (Look Below): 
+Some Of The Frameworks/Libraries And Technologies That I Am Familiar With: (Look Below): 
 
 - React
 - Flask
@@ -32,9 +32,10 @@
 - Source Tree
 - Bit Bucket
 
-- 💞️ I’m looking to collaborate on Group Projects
+💞️ I’m looking to collaborate on Group Projects
   
-- 📫 How to reach me: (Look below)
+📫 How to reach me: (Look below):
+
 - My Personal Email: soummadipsarkar@gmail.com
 - My Personal Instagram Account: @official_soumik06
 - My Official Editing YouTube Channel: Soumik06
