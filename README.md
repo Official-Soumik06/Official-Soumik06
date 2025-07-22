@@ -1,6 +1,6 @@
 👋 Hi, I’m @Official-Soumik06
   
-👀 I’m interested in Software Development And Machine Learning And Artificial Inteligence
+👀 I’m interested in Software Development, Data Science, Machine Learning And Artificial Inteligence
   
 🌱 I’m currently studying at the University of Calgary For Bachelor of Science In Software Engineering, Currently In Third Year!
   
